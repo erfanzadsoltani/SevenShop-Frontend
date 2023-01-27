@@ -1,6 +1,6 @@
-# Software Engineering Final Project
+# SevenShop-Project-Backend
 
-This repository is developed as the final project for the **Software Engineering** course presented by [Drs Farzinvash](https://scholar.google.com/citations?user=n2dPplkAAAAJ&hl=en).
+This repository is developed as the Online Marketing web application in Asp.net core framework and with c# programming language.
 
 <!-- In this project an online shop is implemented -->
 
@@ -8,12 +8,8 @@ This repository is developed as the final project for the **Software Engineering
 
 ## Team Members:
 
--   [Mohammad Mahdi Hejazi](https://github.com/mmhlego): Project Manager / Frontend Developer
--   [Erfan Zadsoltani](https://github.com/erfanzadsoltani): Backend Team Leader
--   [Mahsa Faramarzi](https://github.com/mahsafmz): Backend Developer
--   [Amir Karimi](https://github.com/Amirkarimi02): Backend Developer
--   Hadi Soleimani: UI Designer
--   [Mohammad Reza Abdollahzadeh](https://github.com/rezabdollahzadeh): Frontend Developer
+-   [Mohammad Mahdi Hejazi](https://github.com/mmhlego): Frontend Developer
+-   [Erfan Zadsoltani](https://github.com/erfanzadsoltani): Backend Developer
 
 ## Technologies:
 
