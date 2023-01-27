@@ -23,15 +23,9 @@ Special thanks to [dance2die](https://github.com/dance2die) for their ["cra-temp
 
 ## Usage
 
-To start working with the project, clone this repository alongside the [SE-Project-Backend](https://github.com/mmhlego/SE-Project-Backend) repository.
+To start working with the project, clone this repository alongside the [SevenShop-Project-Backend](https://github.com/erfanzadsoltani/SevenShop-Backend) repository.
 In the next steep install the requirements for both frontend and backend server.
 Frontend requirements:
-
-<!-- -   Backend:
-	-   Runs on localhost:5000
-	-   .Net 6.0
-	-   Nuget Packages
-	-   [Microsoft Sql Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) -->
 
 -   Nodejs & npm
 
