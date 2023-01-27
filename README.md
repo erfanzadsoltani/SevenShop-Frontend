@@ -1,4 +1,4 @@
-# SevenShop-Project-Backend
+# SevenShop Project Frontend
 
 This repository is developed as the Online Marketing web application in Asp.net core framework and with c# programming language.
 
