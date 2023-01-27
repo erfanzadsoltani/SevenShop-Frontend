@@ -52,6 +52,6 @@ _Not that the frontend server runs on localhost:3000 and backend server runs on 
 ## Other Resources
 
 -   List of Apis: [Swagger](https://app.swaggerhub.com/apis/mmhlego/SoftwareEngineeringProject/)
--   Backend server: [Github](https://github.com/mmhlego/SE-Project-Backend)
+-   Backend server: [Github](https://github.com/erfanzadsoltani/SevenShop-Backend)
 
 <!-- MIT © [Sung M. Kim](https://sung.codes) -->
